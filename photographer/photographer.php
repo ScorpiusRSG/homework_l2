@@ -1,6 +1,7 @@
 <?php
 namespace rsg\homework_l2\photographer;
 
+
 include_once("human/human.php");
 use rsg\homework_l2\human as human;
 

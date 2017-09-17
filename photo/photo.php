@@ -1,6 +1,7 @@
 <?php
 namespace rsg\homework_l2\photo;
 
+
 include_once("photographer/photographer.php");
 use rsg\homework_l2\photographer as photographer;
 

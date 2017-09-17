@@ -1,6 +1,7 @@
 <?php
 namespace rsg\homework_l2\human;
 
+
 class Human{
     public $gender='male';
     public $firstName='Ivan';
